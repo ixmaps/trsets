@@ -1,0 +1,46 @@
+comment Plaintiff sites in ACLU's Wikimedia v. NSA case
+comment Challenge to Upstream surveillance under the the FISA Amendments Act
+comment https://www.aclu.org/cases/wikimedia-v-nsa-challenge-upstream-surveillance-under-fisa-amendments-act
+
+comment Wikimedia Foundation
+host www.wikimedia.org
+host www.wikipedia.org
+host www.wiktionary.org
+host www.wikiquote.org
+host www.wikibooks.org
+host wikisource.org
+host www.wikinews.org
+host www.wikiversity.org
+host species.wikimedia.org
+host www.mediawiki.org
+host www.wikidata.org
+host commons.wikimedia.org
+host www.wikivoyage.org
+host meta.wikimedia.org
+host incubator.wikimedia.org
+host wikitech.wikimedia.org
+host wikimediafoundation.org
+
+comment The National Association of Criminal Defense Lawyers
+host www.nacdl.org
+
+comment Human Rights Watch
+host www.hrw.org
+
+comment Amnesty International USA
+host www.amnestyusa.org
+
+comment PEN American Center
+host pen.org
+
+comment Global Fund for Women
+host www.globalfundforwomen.org
+
+comment The Nation Magazine
+host www.thenation.com
+
+comment The Rutherford Institute
+host www.rutherford.org
+
+comment The Washington Office on Latin America
+host www.wola.org
