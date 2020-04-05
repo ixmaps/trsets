@@ -14,7 +14,7 @@ host 149.112.121.30
 host 149.112.122.30
 comment OpenDNS
 host 208.67.222.222
-host 208.67.222.222
+host 208.67.220.220
 comment Quad9
 host 9.9.9.9
 host 149.112.112.112
