@@ -35,28 +35,6 @@ host moisdelaphoto.com
 host montrealjazzfest.com
 host journeesdelaculture.qc.ca
 host nouveaucinema.ca
-comment Montreal commercial sites
-host qimtl.qc.ca
-host cyberpresse.ca
-comment Montreal nonprofits
-host cjestlaurent.org
-host generationemploi.org
-host cdeccdnndg.org
-host differenceemploi.com
-host frj.qc.ca
-host tsf.qc.ca
-host actionrebuts.org
-host amisjardin.qc.ca
-host cofaq.qc.ca
-host apsam.com
-host childrenfoundation.com
-host farha.qc.ca
-host ompac.org
-host societedesoinspalliatifs.com
-host vuesdafrique.org
-host option-consommateurs.org
-host tourisme-montreal.org
-host sat.qc.ca
 comment Montreal city government, partnerships, services
 host ville.montreal.qc.ca
 host ocpm.qc.ca
